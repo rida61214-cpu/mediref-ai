@@ -27,10 +27,7 @@ https://mediref-ai-gqbjm7tejkp7rdrbtt67sy.streamlit.app/
 * **Version Control:** Git & GitHub
 
 ## f. Screenshots
-*(Make sure to upload 3 screenshots of your app showing the input text area, loading state, and generated analysis report, then reference them here)*
-1. **App Interface & Input Box:** ![Input Screen](screenshot1.png)
-2. **Analysis Loading State:** ![Loading State](screenshot2.png)
-3. **Generated PICO & Clinical Report:** ![Report Output](screenshot3.png)
+
 
 ## g. How to Run the Project Locally
 1. Clone the repository: 
