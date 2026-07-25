@@ -6,7 +6,7 @@
 * **Real Problem & Audience:** Medical students, junior researchers, and clinicians spend excessive hours screening dense literature and formatting clinical reviews. MediRef AI accelerates literature appraisal and reference preparation.
 
 ## b. Live Deployed URL
-[https://mediref-ai-lh77ppskht4wn7siczynkkp.streamlit.app](https://mediref-ai-lh77ppskht4wn7siczynkkp.streamlit.app)
+https://mediref-ai-gqbjm7tejkp7rdrbtt67sy.streamlit.app/
 
 ## c. Features List
 * Instant abstract text parsing.
